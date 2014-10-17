@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzg:home|Door43 (kzg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzg|d43-kzg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzg/archive/master.zip|d43-kzg.zip]]
+
+**Recent Changes**
+{{changes>ns = kzg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzg|Ethnologue data]]
+
